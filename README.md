@@ -13,7 +13,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 ## How to Use
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/akdevv/mini-python-projects.git
     cd python-mini-projects
     ```
 2. **Explore the projects**:
