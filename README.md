@@ -1,4 +1,4 @@
- # mini-python-projects
+# mini-python-projects
 Welcome to Mini Python Projects repo- cool projects I build while learning Python 🐍✨
 
 ## Projects Overview
