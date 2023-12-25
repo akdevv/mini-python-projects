@@ -6,7 +6,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 | ----- | ------------------- | ----------------------------------------------------------------------- |
 | 1     | Band Name Generator | Generates unique band names based on user input.                        |
 | 2     | Tip Calculator      | Splits bills based on bill amount, number of people and tip percentage. |
-| 3     |                     |                                                                         |
+| 3     | Treasure Island     | Guess right for treasure, wrong to lose the game.                       |
 | 4     |                     |                                                                         |
 
 ## How to Use
