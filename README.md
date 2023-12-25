@@ -14,11 +14,11 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/akdevv/mini-python-projects.git
-    cd python-mini-projects
+    cd mini-python-projects
     ```
 2. **Explore the projects**:
     - Navigate to each project folder
-    - Refect to project specific **README** file
+    - Refer to project specific **README** file
 3. **Run the Projects:**
     - Follow any setup or installation instructions specified in each project's **README**.
     - Execute the main Python script or use the provided commands to run the project.
