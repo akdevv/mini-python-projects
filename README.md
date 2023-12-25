@@ -2,12 +2,12 @@
 Welcome to Mini Python Projects repo- cool projects I build while learning Python 🐍✨
 
 ## Projects Overview
-| S.No. | Project             | Description                                                                |
-| ----- | ------------------- | -------------------------------------------------------------------------- |
-| 1     | Band Name Generator | Generates unique band names based on user input.                           |
-| 2     | Tip Calculator      | Calculates tips based on bill amount, number of people and tip percentage. |
-| 3     |                     |                                                                            |
-| 4     |                     |                                                                            |
+| S.No. | Project             | Description                                                             |
+| ----- | ------------------- | ----------------------------------------------------------------------- |
+| 1     | Band Name Generator | Generates unique band names based on user input.                        |
+| 2     | Tip Calculator      | Splits bills based on bill amount, number of people and tip percentage. |
+| 3     |                     |                                                                         |
+| 4     |                     |                                                                         |
 
 ## How to Use
 1. **Clone the Repository**:
