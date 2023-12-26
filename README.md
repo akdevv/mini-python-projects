@@ -11,6 +11,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 | 5     | Password Generator  | Random Password Generator in terminal with custom length.               |
 | 6     | Hangman             | Word guessing game in terminal.                                         |
 | 7     | Caesar Cipher       | Caesar Cipher implementation in Python.                                 |
+| 8     | Blackjack           | Blackjack card game against computer.                                   |
 
 ## How to Use
 1. **Clone the Repository**:
