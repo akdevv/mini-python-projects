@@ -10,6 +10,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 | 4     | Rock Paper Scissors | Rock Paper Scissors game in terminal with ASCII art.                    |
 | 5     | Password Generator  | Random Password Generator in terminal with custom length.               |
 | 6     | Hangman             | Word guessing game in terminal.                                         |
+| 7     | Caesar Cipher       | Caesar Cipher implementation in Python.                                 |
 
 ## How to Use
 1. **Clone the Repository**:
@@ -23,7 +24,6 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 3. **Run the Projects:**
     - Follow any setup or installation instructions specified in each project's **README**.
     - Execute the main Python script or use the provided commands to run the project.
-
 
 ## Credits
 This project was created with reference to the Udemy course [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) by **Angela Yu**. I appreciate the valuable insights and knowledge gained from the course.
