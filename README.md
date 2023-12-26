@@ -9,6 +9,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 | 3     | Treasure Island     | Guess right for treasure, wrong to lose the game.                       |
 | 4     | Rock Paper Scissors | Rock Paper Scissors game in terminal with ASCII art.                    |
 | 5     | Password Generator  | Random Password Generator in terminal with custom length.               |
+| 6     | Hangman             | Word guessing game in terminal.                                         |
 
 ## How to Use
 1. **Clone the Repository**:
