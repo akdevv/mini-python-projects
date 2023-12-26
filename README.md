@@ -12,6 +12,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 | 6     | Hangman             | Word guessing game in terminal.                                         |
 | 7     | Caesar Cipher       | Caesar Cipher implementation in Python.                                 |
 | 8     | Blackjack           | Blackjack card game against computer.                                   |
+| 9     | Guess the Number    | Guess a randomly generated number within specific range.                |
 
 ## How to Use
 1. **Clone the Repository**:
