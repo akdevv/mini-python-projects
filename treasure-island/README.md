@@ -6,8 +6,9 @@ The Treasure Island game is a command-line adventure where your choices dictate 
 ## How to Use
 1. **Clone the Repository:**
     ```bash
-    git clone <repository-url>
-    cd band-name-generator
+    git clone https://github.com/akdevv/mini-python-projects.git
+    cd mini-python-projects
+    cd treasure-island
     ```
 2. **Run _main.py_:**
     ```bash

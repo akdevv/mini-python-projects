@@ -6,8 +6,9 @@ Python Rock Paper Scissors game in terminal. User v/s Computer (which chooses at
 ## How to Use
 1. **Clone the Repository:**
     ```bash
-    git clone <repository-url>
-    cd band-name-generator
+    git clone https://github.com/akdevv/mini-python-projects.git
+    cd mini-python-projects
+    cd rock-paper-scissors
     ```
 2. **Run _main.py_:**
     ```bash

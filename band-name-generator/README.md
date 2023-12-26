@@ -6,7 +6,8 @@ The Band Name Generator is a Python project designed to create unique band names
 ## How to Use
 1. **Clone the Repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/akdevv/mini-python-projects.git
+    cd mini-python-projects
     cd band-name-generator
     ```
 2. **Run _main.py_:**
