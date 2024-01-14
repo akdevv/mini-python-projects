@@ -15,6 +15,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 | 9     | Guess the Number    | Guess a randomly generated number within specific range.                |
 | 10    | Higher Lower        | Guessing if the next celebrity has more or fewer followers.             |
 | 11    | Coffee Machine      | Coffee Machine program to implement OOP in Python.                      |
+| 12    | Quiz Game           | A simple command line quiz game in Python.                              |
 
 ## How to Use
 1. **Clone the Repository**:
