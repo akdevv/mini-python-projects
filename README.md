@@ -17,6 +17,7 @@ Welcome to Mini Python Projects repo- cool projects I build while learning Pytho
 | 11    | Coffee Machine          | Coffee Machine program to implement OOP in Python.                      |
 | 12    | Quiz Game               | A simple command line quiz game in Python.                              |
 | 13    | Million Dollar Painting | A Demian Hirst's style dot painting with Turtle module.                 |
+| 14    | Turtle Raing Game       | Guess winning turtle from six turtles which moves randomly.             |
 
 ## How to Use
 1. **Clone the Repository**:
